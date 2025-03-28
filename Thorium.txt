@@ -1,0 +1,5 @@
+{
+  "DownloadLink": "https://example.com/download",
+  "IsWorking": true,
+  "Version": "1.0"
+}
