@@ -1,5 +1,5 @@
 {
-  "DownloadLink": "https://github.com/Galavic/Thorium/releases/download/Thorium/Thorium-vBeta1.0.1-x64.rar",
+  "DownloadLink": "https://github.com/Galavic/Thorium/blob/main/Thorium-vBeta1.0.1-x64.rar",
   "IsWorking": true,
   "Version": "1.0"
 }
